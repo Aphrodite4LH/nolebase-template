@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/八股/计网/八股训练营/18、TCP连接三次握手的过程，为什么是三次，可以是两次或者更多吗？.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/index.md"
+                "file": "笔记/八股/计网/八股训练营/18、TCP连接三次握手的过程，为什么是三次，可以是两次或者更多吗？.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/八股/计网/八股训练营/18、TCP连接三次握手的过程，为什么是三次，可以是两次或者更多吗？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/八股/计网/八股训练营/18、TCP连接三次握手的过程，为什么是三次，可以是两次或者更多吗？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +158,9 @@
   },
   "active": "6b85c0c7b98c4e3f",
   "lastOpenFiles": [
+    "笔记/index.md",
     "笔记/算法笔记/代码随想录/Day1/704.二分查找.md",
     "笔记/算法笔记/代码随想录/Day1/27.移除元素.md",
-    "笔记/index.md",
     "笔记/八股/计网/八股训练营/3、HTTP请求报文和响应报文是怎样的，有哪些常见的字段？.md",
     "笔记/八股/计网/八股训练营/1、介绍一下TCP IP模型和OSI模型的区别.md",
     "笔记/八股/计网/八股训练营/11、HTTPS和HTTP有哪些区别？.md",
