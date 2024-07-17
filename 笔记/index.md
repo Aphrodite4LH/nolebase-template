@@ -1,5 +1,5 @@
 ---
-comments: "false"
+comment: "false"
 ---
 # 📒 知识库简介
 
