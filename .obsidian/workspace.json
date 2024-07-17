@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "笔记/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e6c4a8428fec8f96",
@@ -80,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "笔记/index.md"
               }
             }
           }
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "笔记/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "笔记/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,11 +156,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f2c5c2242b497859",
+  "active": "6b85c0c7b98c4e3f",
   "lastOpenFiles": [
+    "笔记/算法笔记/Day1/第一题.md",
+    "index.md",
     "笔记/index.md",
     "笔记/数学建模相关工作/国赛相关工作.md",
-    "笔记/算法笔记/Day1/111.md",
     "node_modules/@nolebase",
     "🔌 知识库插件列表.md",
     "笔记/算法笔记/未命名.md",
@@ -175,7 +175,6 @@
     "node_modules/@eslint",
     "node_modules/@unocss",
     "笔记/数学建模相关工作/美赛相关工作.md",
-    "index.md",
     "视图/未添加标签的页面.md",
     "视图/尚未编写完成的页面.md",
     "笔记/演示目录1/这是新的笔记.md",
