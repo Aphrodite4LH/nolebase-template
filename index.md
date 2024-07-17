@@ -21,6 +21,7 @@ features:
     icon: 🧮
   - title: 八股
     details: 计算机网络 & Operating System & C++
+    icon: 📚
   - title: 竞赛
     details: 数学建模美赛 & 国赛
     icon: 🏆
