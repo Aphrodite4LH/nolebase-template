@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔌 知识库插件列表.md",
+                "file": "笔记/演示目录1/文档-带评论.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔌 知识库插件列表.md"
+                "file": "笔记/演示目录1/文档-带评论.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔌 知识库插件列表.md",
+                "file": "笔记/演示目录1/文档-带评论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔌 知识库插件列表.md",
+                "file": "笔记/演示目录1/文档-带评论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,24 @@
   },
   "active": "e8170a281dd37d0a",
   "lastOpenFiles": [
-    "笔记/index.md",
+    "笔记/数学建模相关工作/美赛相关工作.md",
+    "笔记/数学建模相关工作/国赛相关工作.md",
+    "笔记/数学建模相关工作",
+    "笔记/images/品类置信度与支持度散点图.svg",
+    "笔记/images/XOR.png",
+    "笔记/images/Pasted image 20240716010210.png",
+    "笔记/images/Pasted image 20240714154624.png",
+    "笔记/images/Pasted image 20240714152105.png",
+    "笔记/images/Pasted image 20240713140057.png",
+    "笔记/images/Pasted image 20240711175536.png",
+    "笔记/images/Pasted image 20240710193247.png",
+    "笔记/images/Pasted image 20240710174105.png",
+    "笔记/images/Pasted image 20240709181657.png",
+    "笔记/images/1st_model.pdf",
+    "笔记/images",
     "笔记/演示目录1/这是新的笔记.md",
+    "🔌 知识库插件列表.md",
+    "笔记/index.md",
     "scripts/admonitions-main/src/lang/locale/zh-tw.ts",
     "scripts/admonitions-main/src/lang/locale/zh-cn.ts",
     "scripts/admonitions-main/src/lang/locale/tr.ts",
@@ -167,20 +183,7 @@
     "scripts/admonitions-main/src/lang/locale/ro.ts",
     "scripts/admonitions-main/src/lang/locale/pt.ts",
     "scripts/admonitions-main/src/lang/locale/pt-br.ts",
-    "scripts/admonitions-main/src/lang/locale/no.ts",
-    "scripts/admonitions-main/src/lang/locale/pl.ts",
-    "scripts/admonitions-main/src/lang/locale/nl.ts",
     "scripts/admonitions-main/src/lang/README.md",
-    "scripts/admonitions-main/publish/images/title.png",
-    "scripts/admonitions-main/publish/images/title-markdown.png",
-    "scripts/admonitions-main/publish/images/rendered-title-markdown.png",
-    "scripts/admonitions-main/publish/images/pf2-note.png",
-    "scripts/admonitions-main/publish/images/no-title.png",
-    "scripts/admonitions-main/publish/images/nested.png",
-    "scripts/admonitions-main/publish/images/nested-code.png",
-    "scripts/admonitions-main/publish/images/msdocs.png",
-    "scripts/admonitions-main/publish/gifs/create-an-admonition.gif",
-    "scripts/admonitions-main/publish/gifs/collapse.gif",
     "scripts/admonitions-main/README.md",
     "scripts/admonitions-main/CHANGELOG.md",
     "admonitions-main/src/lang/README.md",
@@ -189,7 +192,6 @@
     "笔记/演示目录1/文档-不带评论.md",
     "视图/未添加标签的页面.md",
     "视图/尚未编写完成的页面.md",
-    "🔌 知识库插件列表.md",
     "index.md",
     "README.md",
     "toc.md",
@@ -202,7 +204,6 @@
     "6.S081/lab3/lab3.3.md",
     "八股/计网八股/八股训练营/23、Cookie和Session是什么？有什么区别？.md",
     "八股/计网八股/八股训练营/21、DNS查询过程.md",
-    "八股/计网八股/八股训练营/10、了解过HTTP3.0吗.md",
     "C++八股/draw/未命名.canvas"
   ]
 }
