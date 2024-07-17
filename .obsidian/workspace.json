@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/index.md",
-                "mode": "source",
+                "file": "笔记/算法笔记/Day1/第一题.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/index.md"
+                "file": "笔记/算法笔记/Day1/第一题.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/算法笔记/Day1/第一题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/算法笔记/Day1/第一题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,10 +158,10 @@
   },
   "active": "6b85c0c7b98c4e3f",
   "lastOpenFiles": [
-    "笔记/数学建模相关工作/美赛相关工作.md",
-    "笔记/算法笔记/Day1/第一题.md",
     "笔记/index.md",
     "笔记/数学建模相关工作/国赛相关工作.md",
+    "笔记/数学建模相关工作/美赛相关工作.md",
+    "笔记/算法笔记/Day1/第一题.md",
     "index.md",
     "node_modules/@nolebase",
     "🔌 知识库插件列表.md",
