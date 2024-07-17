@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/数学建模相关工作/国赛相关工作.md",
-                "mode": "source",
+                "file": "笔记/数学建模相关工作/美赛相关工作.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/数学建模相关工作/国赛相关工作.md"
+                "file": "笔记/数学建模相关工作/美赛相关工作.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/数学建模相关工作/国赛相关工作.md",
+                "file": "笔记/数学建模相关工作/美赛相关工作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/数学建模相关工作/国赛相关工作.md",
+                "file": "笔记/数学建模相关工作/美赛相关工作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,13 +158,13 @@
   },
   "active": "6b85c0c7b98c4e3f",
   "lastOpenFiles": [
+    "笔记/数学建模相关工作/国赛相关工作.md",
+    "笔记/数学建模相关工作/美赛相关工作.md",
     "index.md",
     "笔记/index.md",
     "视图/未添加标签的页面.md",
     "视图/尚未编写完成的页面.md",
     "笔记/演示目录1/这是新的笔记.md",
-    "笔记/数学建模相关工作/国赛相关工作.md",
-    "笔记/数学建模相关工作/美赛相关工作.md",
     "images/品类置信度与支持度散点图.svg",
     "images/XOR.png",
     "images/Pasted image 20240716010210.png",
