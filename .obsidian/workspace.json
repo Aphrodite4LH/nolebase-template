@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/index.md",
+                "file": "🔌 知识库插件列表.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/index.md"
+                "file": "🔌 知识库插件列表.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/index.md",
+                "file": "🔌 知识库插件列表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/index.md",
+                "file": "🔌 知识库插件列表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,18 +158,19 @@
   },
   "active": "6b85c0c7b98c4e3f",
   "lastOpenFiles": [
+    "笔记/算法笔记/未命名.md",
     "🔌 知识库插件列表.md",
+    "笔记/算法笔记/Day1",
+    "_tmp_18208_9f45bdcf1d428dc8f9f27d8acd841358",
+    "_tmp_34116_ca76938191f0ad96398e51dd8b0405a8",
+    "_tmp_16976_fe7933678bf1b34f9d375566a0ae8342",
+    "笔记/index.md",
     "pnpm-lock.yaml.3479737667",
     "node_modules/@types",
     "node_modules/@eslint-community",
     "node_modules/@eslint",
     "node_modules/@unocss",
     "node_modules/@typescript-eslint",
-    "node_modules/@stylistic",
-    "node_modules",
-    "_tmp_34168_c0705e0132ad2e94cabe8183fb23cac6",
-    "_tmp_34052_382864d804b66408f28bacaecb038345",
-    "笔记/index.md",
     "笔记/数学建模相关工作/美赛相关工作.md",
     "笔记/数学建模相关工作/国赛相关工作.md",
     "index.md",
@@ -202,7 +203,6 @@
     "6.S081/1、XV6启动过程.md",
     "6.S081/lab3/lab3.1.md",
     "6.S081/lab3/lab3.2.md",
-    "6.S081/lab3/lab3.3.md",
     "C++八股/draw/未命名.canvas"
   ]
 }
