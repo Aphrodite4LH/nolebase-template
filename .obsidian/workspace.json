@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔌 知识库插件列表.md",
+                "file": "笔记/算法笔记/Day1/为什么呢.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔌 知识库插件列表.md"
+                "file": "笔记/算法笔记/Day1/为什么呢.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔌 知识库插件列表.md",
+                "file": "笔记/算法笔记/Day1/为什么呢.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔌 知识库插件列表.md",
+                "file": "笔记/算法笔记/Day1/为什么呢.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,9 @@
   },
   "active": "6b85c0c7b98c4e3f",
   "lastOpenFiles": [
-    "笔记/算法笔记/未命名.md",
     "🔌 知识库插件列表.md",
+    "笔记/算法笔记/Day1/为什么呢.md",
+    "笔记/算法笔记/未命名.md",
     "笔记/算法笔记/Day1",
     "_tmp_18208_9f45bdcf1d428dc8f9f27d8acd841358",
     "_tmp_34116_ca76938191f0ad96398e51dd8b0405a8",
