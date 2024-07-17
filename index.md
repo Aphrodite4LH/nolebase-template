@@ -4,6 +4,7 @@ sidebar: false
 title: UrThePumpkin
 titleTemplate: 算法笔记
 hero:
+  name: UrThePumpkin
   text: 记录算法学习过程
   tagline: 属于UrThePumpkin的知识库
   image:
