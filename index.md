@@ -1,11 +1,11 @@
 ---
 layout: home
 sidebar: false
-title: Nólëbase
-titleTemplate: 记录回忆，知识和畅想的地方
+title: UrThePumpkin
+titleTemplate: 记录suan
 hero:
   name: g~Nj$3J2^
-  text: 记录回忆，知识和畅想的地方
+  text: 记录算法学习过程
   tagline: 以 Nólëbase 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
   image:
     src: /logo.svg
@@ -28,6 +28,5 @@ features:
   - title: 由 Obsidian 驱动
     details: 强大的知识库管理工具，支持花样繁多的插件和拓展，让知识管理变得更加简单。
     icon: 🗃
----
 
-<HomePage />
+
