@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/index.md",
+                "file": "🔌 知识库插件列表.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/index.md"
+                "file": "🔌 知识库插件列表.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/index.md",
+                "file": "🔌 知识库插件列表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/index.md",
+                "file": "🔌 知识库插件列表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,10 +158,20 @@
   },
   "active": "6b85c0c7b98c4e3f",
   "lastOpenFiles": [
-    "笔记/数学建模相关工作/美赛相关工作.md",
+    "pnpm-lock.yaml.3479737667",
+    "node_modules/@types",
+    "node_modules/@eslint-community",
+    "node_modules/@eslint",
+    "node_modules/@unocss",
+    "node_modules/@typescript-eslint",
+    "node_modules/@stylistic",
+    "node_modules",
+    "_tmp_34168_c0705e0132ad2e94cabe8183fb23cac6",
+    "_tmp_34052_382864d804b66408f28bacaecb038345",
+    "_tmp_34480_a4ed0d1cc89581db81b896cf833c2eae",
     "笔记/index.md",
+    "笔记/数学建模相关工作/美赛相关工作.md",
     "笔记/数学建模相关工作/国赛相关工作.md",
-    "笔记/算法笔记",
     "index.md",
     "视图/未添加标签的页面.md",
     "视图/尚未编写完成的页面.md",
@@ -176,17 +186,8 @@
     "images/Pasted image 20240710193247.png",
     "images/Pasted image 20240710174105.png",
     "images/Pasted image 20240709181657.png",
-    "images/1st_model.pdf",
-    "images",
-    "笔记/images/1st_model.pdf",
     "笔记/演示目录1/文档-带评论.md",
-    "笔记/数学建模相关工作",
-    "笔记/images",
     "🔌 知识库插件列表.md",
-    "scripts/admonitions-main/src/lang/locale/zh-tw.ts",
-    "scripts/admonitions-main/src/lang/locale/zh-cn.ts",
-    "scripts/admonitions-main/src/lang/locale/tr.ts",
-    "scripts/admonitions-main/src/lang/locale/ru.ts",
     "scripts/admonitions-main/src/lang/README.md",
     "scripts/admonitions-main/README.md",
     "scripts/admonitions-main/CHANGELOG.md",
