@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/算法笔记/代码随想录/Day1/704.二分查找.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/index.md"
+                "file": "笔记/算法笔记/代码随想录/Day1/704.二分查找.md"
               }
             }
           }
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 726.5086555480957
+    "width": 303.5086555480957
   },
   "right": {
     "id": "5116d965595fbda2",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/算法笔记/代码随想录/Day1/704.二分查找.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/算法笔记/代码随想录/Day1/704.二分查找.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,10 +158,12 @@
   },
   "active": "6b85c0c7b98c4e3f",
   "lastOpenFiles": [
+    "笔记/算法笔记/代码随想录/Day1/27.移除元素.md",
+    "笔记/算法笔记/代码随想录/Day1/704.二分查找.md",
+    "笔记/index.md",
     "笔记/八股/计网/八股训练营/3、HTTP请求报文和响应报文是怎样的，有哪些常见的字段？.md",
     "笔记/八股/计网/八股训练营/1、介绍一下TCP IP模型和OSI模型的区别.md",
     "笔记/八股/计网/八股训练营/11、HTTPS和HTTP有哪些区别？.md",
-    "笔记/index.md",
     "笔记/八股/计网/其它/URI、URL、URN.md",
     "笔记/八股/计网/其它",
     "笔记/八股/计网/八股训练营/2、键入网址到网页显示，期间发生了什么？/assets/1720194377-fc0f0932cef439e9ff099e925a995eff.jpg",
@@ -193,7 +195,6 @@
     "笔记/八股/计网/八股训练营/12、HTTPS的工作原理(HTTPS建立连接的过程）.md",
     "笔记/八股/计网/八股训练营/10、了解过HTTP3.0吗.md",
     "笔记/八股/计网/八股训练营",
-    "笔记/算法笔记/代码随想录/Day1/第一题.md",
     "笔记/八股/C++",
     "笔记/八股/OS",
     "笔记/八股/计网",
