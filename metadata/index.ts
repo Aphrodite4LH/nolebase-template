@@ -1,6 +1,6 @@
 /** 文本 */
-export const siteName = 'pumpkin'
-export const siteShortName = 'pumpkin'
+export const siteName = '🎃Pumpkin'
+export const siteShortName = '🎃Pumpkin'
 export const siteDescription = '记录回忆，知识和畅想的地方'
 
 /** 文档所在目录 */
