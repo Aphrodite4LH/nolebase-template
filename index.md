@@ -1,10 +1,8 @@
 ---
 layout: home
 sidebar: false
-
 title: Nólëbase
 titleTemplate: 记录回忆，知识和畅想的地方
-
 hero:
   name: g~Nj$3J2^
   text: 记录回忆，知识和畅想的地方
@@ -16,12 +14,6 @@ hero:
     - theme: brand
       text: 开始阅读
       link: /笔记/index
-    - theme: alt
-      text: 加入 Discord 服务器
-      link: https://discord.gg/XuNFDcDZGj
-    - theme: alt
-      text: GitHub 上浏览
-      link: https://github.com/nolebase/nolebase
 
 features:
   - title: 多样的主题和内容
