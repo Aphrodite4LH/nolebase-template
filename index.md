@@ -20,7 +20,7 @@ features:
     details: 代码随想录 & hot100 & 剑指Offer
     icon: 🧮
   - title: 八股
-    details: 计算机网络 & Operating System & C++
+    details: 计算机网络 & OS & C++
     icon: 📚
   - title: 竞赛
     details: 数学建模美赛 & 国赛
