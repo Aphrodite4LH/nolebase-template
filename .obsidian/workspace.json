@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f29238a0c0e8924a",
+        "id": "cac97e691b5b9c30",
         "type": "tabs",
         "children": [
           {
-            "id": "e8170a281dd37d0a",
+            "id": "6b85c0c7b98c4e3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/演示目录1/文档-带评论.md",
+                "file": "笔记/数学建模相关工作/美赛相关工作.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/演示目录1/文档-带评论.md"
+                "file": "笔记/数学建模相关工作/美赛相关工作.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/演示目录1/文档-带评论.md",
+                "file": "笔记/数学建模相关工作/美赛相关工作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/演示目录1/文档-带评论.md",
+                "file": "笔记/数学建模相关工作/美赛相关工作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +156,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e8170a281dd37d0a",
+  "active": "6b85c0c7b98c4e3f",
   "lastOpenFiles": [
+    "笔记/images/model.svg",
+    "笔记/images/1st_model.svg",
+    "笔记/images/1st_model.pdf",
     "笔记/数学建模相关工作/美赛相关工作.md",
+    "笔记/演示目录1/文档-带评论.md",
     "笔记/数学建模相关工作/国赛相关工作.md",
     "笔记/数学建模相关工作",
     "笔记/images/品类置信度与支持度散点图.svg",
@@ -169,9 +173,6 @@
     "笔记/images/Pasted image 20240713140057.png",
     "笔记/images/Pasted image 20240711175536.png",
     "笔记/images/Pasted image 20240710193247.png",
-    "笔记/images/Pasted image 20240710174105.png",
-    "笔记/images/Pasted image 20240709181657.png",
-    "笔记/images/1st_model.pdf",
     "笔记/images",
     "笔记/演示目录1/这是新的笔记.md",
     "🔌 知识库插件列表.md",
@@ -202,8 +203,6 @@
     "6.S081/lab3/lab3.1.md",
     "6.S081/lab3/lab3.2.md",
     "6.S081/lab3/lab3.3.md",
-    "八股/计网八股/八股训练营/23、Cookie和Session是什么？有什么区别？.md",
-    "八股/计网八股/八股训练营/21、DNS查询过程.md",
     "C++八股/draw/未命名.canvas"
   ]
 }
