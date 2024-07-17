@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/算法笔记/Day1/111.md",
+                "file": "笔记/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/算法笔记/Day1/111.md"
+                "file": "笔记/index.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/算法笔记/Day1/111.md",
+                "file": "笔记/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/算法笔记/Day1/111.md",
+                "file": "笔记/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
