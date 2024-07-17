@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "7ede666c94e8f53c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f29238a0c0e8924a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8170a281dd37d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔌 知识库插件列表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44789dd2f8b4d991",
+    "type": "split",
+    "children": [
+      {
+        "id": "250fb9be57ae4413",
+        "type": "tabs",
+        "dimension": 70.1492537313433,
+        "children": [
+          {
+            "id": "cc8683e5ed034204",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2c5c2242b497859",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "握手",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "caa16dfd5e260d21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e6c4a8428fec8f96",
+        "type": "tabs",
+        "dimension": 29.850746268656714,
+        "children": [
+          {
+            "id": "de49022f8a408ad3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🔌 知识库插件列表.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341.5004348754883
+  },
+  "right": {
+    "id": "5116d965595fbda2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d7bebc1db74284b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae1666cc0c9ef079",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🔌 知识库插件列表.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57e68e65c5c1fe5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🔌 知识库插件列表.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7cf818c535de58c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "e8170a281dd37d0a",
+  "lastOpenFiles": [
+    "笔记/index.md",
+    "笔记/演示目录1/这是新的笔记.md",
+    "scripts/admonitions-main/src/lang/locale/zh-tw.ts",
+    "scripts/admonitions-main/src/lang/locale/zh-cn.ts",
+    "scripts/admonitions-main/src/lang/locale/tr.ts",
+    "scripts/admonitions-main/src/lang/locale/ru.ts",
+    "scripts/admonitions-main/src/lang/locale/ro.ts",
+    "scripts/admonitions-main/src/lang/locale/pt.ts",
+    "scripts/admonitions-main/src/lang/locale/pt-br.ts",
+    "scripts/admonitions-main/src/lang/locale/no.ts",
+    "scripts/admonitions-main/src/lang/locale/pl.ts",
+    "scripts/admonitions-main/src/lang/locale/nl.ts",
+    "scripts/admonitions-main/src/lang/README.md",
+    "scripts/admonitions-main/publish/images/title.png",
+    "scripts/admonitions-main/publish/images/title-markdown.png",
+    "scripts/admonitions-main/publish/images/rendered-title-markdown.png",
+    "scripts/admonitions-main/publish/images/pf2-note.png",
+    "scripts/admonitions-main/publish/images/no-title.png",
+    "scripts/admonitions-main/publish/images/nested.png",
+    "scripts/admonitions-main/publish/images/nested-code.png",
+    "scripts/admonitions-main/publish/images/msdocs.png",
+    "scripts/admonitions-main/publish/gifs/create-an-admonition.gif",
+    "scripts/admonitions-main/publish/gifs/collapse.gif",
+    "scripts/admonitions-main/README.md",
+    "scripts/admonitions-main/CHANGELOG.md",
+    "admonitions-main/src/lang/README.md",
+    "admonitions-main/README.md",
+    "admonitions-main/CHANGELOG.md",
+    "笔记/演示目录1/文档-不带评论.md",
+    "视图/未添加标签的页面.md",
+    "视图/尚未编写完成的页面.md",
+    "🔌 知识库插件列表.md",
+    "index.md",
+    "README.md",
+    "toc.md",
+    "笔记/aaa.md",
+    "笔记/✍️ 文档工程/图表即代码（CaC）图表绘制.md",
+    "6.S081/GDB调试.md",
+    "6.S081/1、XV6启动过程.md",
+    "6.S081/lab3/lab3.1.md",
+    "6.S081/lab3/lab3.2.md",
+    "6.S081/lab3/lab3.3.md",
+    "八股/计网八股/八股训练营/23、Cookie和Session是什么？有什么区别？.md",
+    "八股/计网八股/八股训练营/21、DNS查询过程.md",
+    "八股/计网八股/八股训练营/10、了解过HTTP3.0吗.md",
+    "C++八股/draw/未命名.canvas"
+  ]
+}
