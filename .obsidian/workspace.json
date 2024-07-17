@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "握手",
+                "query": "Nólëbase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e6c4a8428fec8f96",
@@ -156,7 +157,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6b85c0c7b98c4e3f",
+  "active": "f2c5c2242b497859",
   "lastOpenFiles": [
     "笔记/index.md",
     "笔记/数学建模相关工作/国赛相关工作.md",
