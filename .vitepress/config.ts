@@ -1,16 +1,16 @@
-import process from 'node:process'
-import { defineConfig } from 'vitepress'
+import {BiDirectionalLinks} from '@nolebase/markdown-it-bi-directional-links'
+import {UnlazyImages} from '@nolebase/markdown-it-unlazy-img'
+import {InlineLinkPreviewElementTransform} from '@nolebase/vitepress-plugin-inline-link-preview/markdown-it'
+import {buildEndGenerateOpenGraphImages} from '@nolebase/vitepress-plugin-og-image/vitepress'
 import MarkdownItFootnote from 'markdown-it-footnote'
 import MarkdownItMathjax3 from 'markdown-it-mathjax3'
+import process from 'node:process'
+import {defineConfig} from 'vitepress'
 
-import { BiDirectionalLinks } from '@nolebase/markdown-it-bi-directional-links'
-import { InlineLinkPreviewElementTransform } from '@nolebase/vitepress-plugin-inline-link-preview/markdown-it'
-import { buildEndGenerateOpenGraphImages } from '@nolebase/vitepress-plugin-og-image/vitepress'
-import { UnlazyImages } from '@nolebase/markdown-it-unlazy-img'
+import {discordLink, githubRepoLink, siteDescription, siteName, targetDomain} from '../metadata'
 
-import { discordLink, githubRepoLink, siteDescription, siteName, targetDomain } from '../metadata'
-import { creatorNames, creatorUsernames } from './creators'
-import { sidebar } from './docsMetadata.json'
+import {creatorNames, creatorUsernames} from './creators'
+import {sidebar} from './docsMetadata.json'
 
 export default defineConfig({
   vue: {
@@ -136,11 +136,11 @@ export default defineConfig({
       { icon: 'github', link: githubRepoLink },
       { icon: 'discord', link: discordLink },
     ],
-    footer: {
-      message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
-      copyright:
-        '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> © 2022-PRESENT Nólëbase 的创作者们',
-    },
+    // footer: {
+    //   message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
+    //   copyright:
+    //     '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> © 2022-PRESENT Nólëbase 的创作者们',
+    // },
     search: {
       provider: 'local',
       options: {
@@ -166,44 +166,44 @@ export default defineConfig({
         // Add title ang tags field in frontmatter to search
         // You can exclude a page from search by adding search: false to the page's frontmatter.
         _render(src, env, md) {
-          // without `md.render(src, env)`, the some information will be missing from the env.
-          let html = md.render(src, env)
-          let tagsPart = ''
-          let headingPart = ''
-          let contentPart = ''
-          let fullContent = ''
-          const sortContent = () => [headingPart, tagsPart, contentPart] as const
-          let { frontmatter, content } = env
+  // without `md.render(src, env)`, the some information will be missing from
+  // the env.
+  let html = md.render(src, env)
+  let tagsPart = ''
+  let headingPart = ''
+  let contentPart = ''
+  let fullContent = ''
+  const sortContent = () => [headingPart, tagsPart, contentPart] as const
+      let {frontmatter, content} = env
 
-          if (!frontmatter)
-            return html
+  if (!frontmatter) return html
 
-          if (frontmatter.search === false)
-            return ''
+  if (frontmatter.search === false) return ''
 
-          contentPart = content ||= src
+  contentPart = content ||= src
 
-          const headingMatch = content.match(/^#{1} .*/m)
-          const hasHeading = !!(headingMatch && headingMatch[0] && headingMatch.index !== undefined)
+  const headingMatch = content.match(/^#{1} .*/m)
+  const hasHeading =
+      !!(headingMatch && headingMatch[0] && headingMatch.index !== undefined)
 
-          if (hasHeading) {
-            const headingEnd = headingMatch.index! + headingMatch[0].length
-            headingPart = content.slice(0, headingEnd)
-            contentPart = content.slice(headingEnd)
-          }
-          else if (frontmatter.title) {
-            headingPart = `# ${frontmatter.title}`
-          }
+  if (hasHeading) {
+    const headingEnd = headingMatch.index! + headingMatch[0].length
+    headingPart = content.slice(0, headingEnd)
+    contentPart = content.slice(headingEnd)
+  }
+  else if (frontmatter.title) {
+    headingPart = `# ${frontmatter.title}`
+  }
 
-          const tags = frontmatter.tags
-          if (tags && Array.isArray(tags) && tags.length)
-            tagsPart = `Tags: #${tags.join(', #')}`
+  const tags = frontmatter.tags
+  if (tags && Array.isArray(tags) && tags.length)
+  tagsPart = `Tags: #${tags.join(', #')}`
 
-          fullContent = sortContent().filter(Boolean).join('\n\n')
+  fullContent = sortContent().filter(Boolean).join('\n\n')
 
-          html = md.render(fullContent, env)
+  html = md.render(fullContent, env)
 
-          return html
+  return html
         },
       },
     },
@@ -222,24 +222,24 @@ export default defineConfig({
     math: true,
     config: (md) => {
       md.use(MarkdownItFootnote)
-      md.use(MarkdownItMathjax3)
-      md.use(BiDirectionalLinks({
-        dir: process.cwd(),
-      }))
-      md.use(UnlazyImages(), {
-        imgElementTag: 'NolebaseUnlazyImg',
-      })
+md.use(MarkdownItMathjax3)
+md.use(BiDirectionalLinks({
+  dir: process.cwd(),
+}))
+md.use(UnlazyImages(), {
+  imgElementTag: 'NolebaseUnlazyImg',
+})
       md.use(InlineLinkPreviewElementTransform, {
         tag: 'VPNolebaseInlineLinkPreview',
       })
     },
   },
   async buildEnd(siteConfig) {
-    await buildEndGenerateOpenGraphImages({
-      baseUrl: targetDomain,
-      category: {
-        byLevel: 2,
-      },
-    })(siteConfig)
+  await buildEndGenerateOpenGraphImages({
+    baseUrl: targetDomain,
+    category: {
+      byLevel: 2,
+    },
+  })(siteConfig)
   },
 })
