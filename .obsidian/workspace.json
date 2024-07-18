@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/Day1/1、704.二分查找.md",
+                "file": "笔记/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/Day1/1、704.二分查找.md"
+                "file": "笔记/index.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/Day1/1、704.二分查找.md",
+                "file": "笔记/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/Day1/1、704.二分查找.md",
+                "file": "笔记/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,10 +158,15 @@
   },
   "active": "6b85c0c7b98c4e3f",
   "lastOpenFiles": [
+    "笔记/算法笔记/代码随想录/Day2/2..md",
+    "笔记/算法笔记/代码随想录/Day2/1、977.有序数组的平方.md",
+    "模板/算法笔记模板.md",
+    "模板",
     "笔记/算法笔记/代码随想录/Day1/2、27.移除元素.md",
+    "笔记/算法笔记/代码随想录/Day2",
+    "笔记/index.md",
     "笔记/算法笔记/代码随想录/Day1/1、704.二分查找.md",
     "images/Pasted image 20240718004149.png",
-    "笔记/index.md",
     "笔记/八股/计网/八股训练营/18、TCP连接三次握手的过程，为什么是三次，可以是两次或者更多吗？.md",
     "笔记/八股/计网/八股训练营/3、HTTP请求报文和响应报文是怎样的，有哪些常见的字段？.md",
     "笔记/八股/计网/八股训练营/1、介绍一下TCP IP模型和OSI模型的区别.md",
@@ -198,11 +203,7 @@
     "笔记/八股/C++",
     "笔记/八股/OS",
     "笔记/八股/计网",
-    "笔记/八股",
-    "笔记/算法笔记/剑指Offer",
     "笔记/竞赛/国赛相关工作.md",
-    "笔记/竞赛/美赛相关工作.md",
-    "index.md",
     "C++八股/draw/未命名.canvas"
   ]
 }
