@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/Day2/2、209.长度最小的子数组.md",
+                "file": "笔记/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/Day2/2、209.长度最小的子数组.md"
+                "file": "笔记/index.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/Day2/2、209.长度最小的子数组.md",
+                "file": "笔记/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/Day2/2、209.长度最小的子数组.md",
+                "file": "笔记/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,8 @@
   },
   "active": "6b85c0c7b98c4e3f",
   "lastOpenFiles": [
-    "笔记/算法笔记/代码随想录/Day2/1、977.有序数组的平方.md",
     "笔记/算法笔记/代码随想录/Day2/2、209.长度最小的子数组.md",
+    "笔记/算法笔记/代码随想录/Day2/1、977.有序数组的平方.md",
     "模板/算法笔记模板.md",
     "笔记/index.md",
     "笔记/算法笔记/代码随想录/Day1/1、704.二分查找.md",
