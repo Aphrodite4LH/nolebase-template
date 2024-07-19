@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/Day3/1、203.移除链表元素.md",
+                "file": "笔记/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/Day3/1、203.移除链表元素.md"
+                "file": "笔记/index.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/Day3/1、203.移除链表元素.md",
+                "file": "笔记/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/Day3/1、203.移除链表元素.md",
+                "file": "笔记/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +158,9 @@
   },
   "active": "6b85c0c7b98c4e3f",
   "lastOpenFiles": [
+    "笔记/算法笔记/代码随想录/Day3/1、203.移除链表元素.md",
     "images/Pasted image 20240719102814.png",
     "笔记/算法笔记/代码随想录/Day2/2、209.长度最小的子数组.md",
-    "笔记/算法笔记/代码随想录/Day3/1、203.移除链表元素.md",
     "笔记/算法笔记/代码随想录/Day3",
     "模板/算法笔记模板.md",
     "笔记/算法笔记/代码随想录/Day2/3、59.螺旋矩阵II.md",
@@ -192,7 +192,6 @@
     "笔记/八股/计网/八股训练营/2、键入网址到网页显示，期间发生了什么？/assets/1720194377-b93bea3e302a35427a3d83fd34804808.jpg",
     "笔记/八股/计网/八股训练营/2、键入网址到网页显示，期间发生了什么？/assets/1720194377-878c77f87bbd621d5700727a3b45c332.jpg",
     "笔记/八股/计网/八股训练营/2、键入网址到网页显示，期间发生了什么？/assets/1720194377-a1caae677ce0df25d7547035fe1947ea.png",
-    "笔记/八股/计网/八股训练营/2、键入网址到网页显示，期间发生了什么？/assets/1720194377-7fb5bd14117d053a13567313119fedc0.png",
     "笔记/八股/计网/八股训练营/2、键入网址到网页显示，期间发生了什么？/总结.md",
     "笔记/八股/计网/八股训练营/2、键入网址到网页显示，期间发生了什么？/index.md",
     "笔记/八股/计网/八股训练营/2、键入网址到网页显示，期间发生了什么？/index.json",
