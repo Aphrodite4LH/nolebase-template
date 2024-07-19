@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "模板/算法笔记模板.md",
+                "file": "笔记/算法笔记/代码随想录/Day3/1、203.移除链表元素.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "模板/算法笔记模板.md"
+                "file": "笔记/算法笔记/代码随想录/Day3/1、203.移除链表元素.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "模板/算法笔记模板.md",
+                "file": "笔记/算法笔记/代码随想录/Day3/1、203.移除链表元素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "模板/算法笔记模板.md",
+                "file": "笔记/算法笔记/代码随想录/Day3/1、203.移除链表元素.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,6 +158,11 @@
   },
   "active": "6b85c0c7b98c4e3f",
   "lastOpenFiles": [
+    "images/Pasted image 20240719102814.png",
+    "笔记/算法笔记/代码随想录/Day2/2、209.长度最小的子数组.md",
+    "笔记/算法笔记/代码随想录/Day3/1、203.移除链表元素.md",
+    "笔记/算法笔记/代码随想录/Day3",
+    "模板/算法笔记模板.md",
     "笔记/算法笔记/代码随想录/Day2/3、59.螺旋矩阵II.md",
     "笔记/index.md",
     "笔记/算法笔记/代码随想录/Day2/1、977.有序数组的平方.md",
@@ -169,8 +174,6 @@
     "笔记/八股/OS/八股训练营/1、进程和线程之间有什么区别.md",
     "笔记/八股/OS/八股训练营",
     "images/Pasted image 20240718182227.png",
-    "模板/算法笔记模板.md",
-    "笔记/算法笔记/代码随想录/Day2/2、209.长度最小的子数组.md",
     "笔记/算法笔记/代码随想录/Day1/1、704.二分查找.md",
     "笔记/算法笔记/代码随想录/Day1/2、27.移除元素.md",
     "模板",
@@ -199,11 +202,8 @@
     "笔记/八股/计网/八股训练营/22、CDN是什么，有什么作用.md",
     "笔记/八股/计网/八股训练营/21、DNS查询过程.md",
     "笔记/八股/计网/八股训练营/20、HTTP的Keep-Alive是什么？TCP 的 Keepalive 和 HTTP 的 Keep-Alive 是一个东西吗？.md",
-    "笔记/八股/计网/八股训练营/19、TCP连接四次挥手的过程，为什么是四次？.md",
-    "笔记/八股/计网/八股训练营/17、UDP是怎么实现可靠传输的？.md",
     "笔记/八股/计网/八股训练营",
     "笔记/八股/C++",
-    "笔记/八股/OS",
     "C++八股/draw/未命名.canvas"
   ]
 }
