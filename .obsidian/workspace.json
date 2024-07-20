@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/Day4/1、24. 两两交换链表中的节点.md",
+                "file": "笔记/算法笔记/代码随想录/Day4/4、142.环形链表II.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/Day4/1、24. 两两交换链表中的节点.md"
+                "file": "笔记/算法笔记/代码随想录/Day4/4、142.环形链表II.md"
               }
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/Day4/1、24. 两两交换链表中的节点.md",
+                "file": "笔记/算法笔记/代码随想录/Day4/4、142.环形链表II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/Day4/1、24. 两两交换链表中的节点.md",
+                "file": "笔记/算法笔记/代码随想录/Day4/4、142.环形链表II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,15 +169,27 @@
   },
   "active": "12e8e1c2875070a8",
   "lastOpenFiles": [
+    "images/Pasted image 20240720194439.png",
+    "images/Pasted image 20240720193345.png",
+    "images/Pasted image 20240720193318.png",
+    "images/Pasted image 20240720193259.png",
+    "笔记/算法笔记/代码随想录/Day4/3、160.链表相交.md",
+    "笔记/算法笔记/代码随想录/Day4/4、142.环形链表II.md",
+    "images/Pasted image 20240720193019.png",
+    "images/Pasted image 20240720192836.png",
+    "images/Pasted image 20240720192746.png",
+    "images/Pasted image 20240720192729.png",
+    "images/Pasted image 20240720192725.png",
+    "images/Pasted image 20240720192630.png",
+    "模板/算法笔记模板.md",
+    "笔记/算法笔记/代码随想录/Day4/2、19.删除链表的倒数第N个节点.md",
+    "笔记/算法笔记/代码随想录/Day4/1、24. 两两交换链表中的节点.md",
     "images/1、24. 两两交换链表中的节点 2024-07-20 18.47.39.excalidraw.svg",
     "images/1、24. 两两交换链表中的节点 2024-07-20 18.47.39.excalidraw.md",
-    "笔记/算法笔记/代码随想录/Day4/1、24. 两两交换链表中的节点.md",
-    "images/Pasted image 20240720191631.png",
     "笔记/竞赛/国赛相关工作.md",
     "笔记/算法笔记/代码随想录/Day1/1、704.二分查找.md",
     "Excalidraw/Drawing 2024-07-20 18.47.16.excalidraw.md",
     "Excalidraw",
-    "images/Pasted image 20240720184427.png",
     "笔记/index.md",
     "笔记/算法笔记/代码随想录/Day4",
     "index.md",
@@ -187,30 +199,19 @@
     "笔记/八股/OS/八股训练营/2、并行和并发有什么区别.md",
     "笔记/八股/OS/八股训练营/1、进程和线程之间有什么区别.md",
     "笔记/补充/锁与信号量.md",
-    "images/Pasted image 20240720001519.png",
-    "images/Pasted image 20240720001006.png",
-    "images/Pasted image 20240720000908.png",
     "笔记/补充/半双工与全双工.md",
     "笔记/补充",
     "笔记/八股/OS/八股训练营/4、进程调度算法你了解多少.md",
     "笔记/算法笔记/代码随想录/Day3/3、206.反转链表.md",
-    "images/206.翻转链表.gif",
-    "images/Pasted image 20240719121049.png",
-    "images/Pasted image 20240719120912.png",
-    "images/Pasted image 20240719120856.png",
     "笔记/算法笔记/代码随想录/Day3/2、707. 设计链表.md",
     "笔记/算法笔记/代码随想录/Day3/1、203.移除链表元素.md",
     "笔记/算法笔记/代码随想录/Day2/2、209.长度最小的子数组.md",
     "笔记/算法笔记/代码随想录/Day3",
-    "模板/算法笔记模板.md",
     "笔记/算法笔记/代码随想录/Day2/3、59.螺旋矩阵II.md",
     "笔记/算法笔记/代码随想录/Day2/1、977.有序数组的平方.md",
     "笔记/八股/OS/八股训练营",
-    "笔记/算法笔记/代码随想录/Day1/2、27.移除元素.md",
     "模板",
     "笔记/算法笔记/代码随想录/Day2",
-    "笔记/八股/计网/八股训练营/18、TCP连接三次握手的过程，为什么是三次，可以是两次或者更多吗？.md",
-    "笔记/八股/计网/八股训练营/3、HTTP请求报文和响应报文是怎样的，有哪些常见的字段？.md",
     "笔记/八股/计网/其它",
     "笔记/八股/计网/八股训练营/2、键入网址到网页显示，期间发生了什么？/index.json",
     "笔记/八股/计网/八股训练营/2、键入网址到网页显示，期间发生了什么？/assets",
