@@ -25,10 +25,7 @@
  *    to create a accent, such as when having inline code block inside
  *    custom containers.
  * -------------------------------------------------------------------------- */
-/* .vitepress\theme\style\var.css */
-h1 {
-  color: red;
-}
+
 
 :root {
   --vp-c-sky-1: #3c96ca;
@@ -107,18 +104,26 @@ h1 {
 /**
  * Component: Badge
  * -------------------------------------------------------------------------- */
+/* .vitepress\theme\style\var.css */
+/* 提示框背景颜色 */
 :root {
-  /* 配置一下 tips 的自定义块的颜色为非默认的产品色，避免与文字不兼容导致可读性下降 */
-  --vp-custom-block-tip-bg: #def4f4;
-  --vp-custom-block-tip-code-bg: #cbd9dd7d;
+  --vp-custom-block-tip-bg: var(--vp-c-green-soft);
 }
 
-.dark:root {
-  /* 配置一下在暗色模式下 tips 的自定义块的颜色为非默认的产品色，避免与文字不兼容导致可读性下降 */
-  --vp-custom-block-tip-bg: #02474e;
-  --vp-custom-block-tip-code-bg: #0d1e1e9c;
+/* 提示框 */
+.custom-block.tip {
+  border-color: var(--vp-c-green-2);
 }
 
-:root {
-  --vp-nolebase-highlight-targeted-heading-bg: rgba(253, 216, 95, 0.31);
+/* 警告框 */
+.custom-block.warning {
+  /* border-color: #d97706; */
+  border-color: var(--vp-c-yellow-2);
 }
+
+/* 危险框 */
+.custom-block.danger {
+  /* border-color: #f43f5e; */
+  border-color: var(--vp-c-red-2);
+}
+
