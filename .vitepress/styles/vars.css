@@ -150,8 +150,8 @@ ul > li::marker {
 
 ul > li::before {
   position: absolute;
-  left: 0.3em; /* 确保符号在左侧 */
-  top: 39%; /* 使符号垂直居中 */
+  left: 0.3em !important; /* 确保符号在左侧 */
+  top: 39% !important; /* 使符号垂直居中 */
   transform: translateY(-50%); /* 使用 transform 来垂直居中符号 */
 }
 
