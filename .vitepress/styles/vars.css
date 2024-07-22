@@ -151,7 +151,7 @@ ul > li::before {
   color: #42b983; /* 改变符号的颜色 */
   position: absolute;
   left: 0; /* 确保符号在左侧 */
-  top: 70%; /* 使符号垂直居中 */
+  top: 50%; /* 使符号垂直居中 */
   transform: translateY(-50%); /* 使用 transform 来垂直居中符号 */
 }
 
