@@ -145,7 +145,15 @@ ul {
   list-style-type: none !important; /* 隐藏默认符号 */
   padding-left: 0; /* 移除默认的内边距 */
 }
-
+ul > li::before {
+  content: "•"; /* 使用自定义的符号 */
+  font-size: 2em; /* 调整符号的大小 */
+  color: #42b983; /* 改变符号的颜色 */
+  position: absolute;
+  left: 0; /* 确保符号在左侧 */
+  top: 70%; /* 使符号垂直居中 */
+  transform: translateY(-50%); /* 使用 transform 来垂直居中符号 */
+}
 
 
 
