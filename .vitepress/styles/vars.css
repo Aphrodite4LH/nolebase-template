@@ -143,11 +143,7 @@
 
 
 
-/* 添加自定义的列表项符号 */
-ul > li::before {
-  content: "•";  /* 你可以根据需要更改符号 */
-  color: #42b983;  /* 根据你的主题颜色更改符号颜色 */
-  display: inline-block;
-  width: 1em;
-  margin-left: -1em;
+ul > li::marker {
+  font-size: 2em;  /* 调整符号的大小 */
+  color: #42b983;   /* 改变符号的颜色 */
 }
