@@ -158,8 +158,8 @@ ul > li::before {
   font-size: 2em; /* 调整符号的大小 */
   color: #42b983; /* 改变符号的颜色 */
   position: absolute;
-  left: 0.5em; /* 确保符号在左侧 */
-  top: 40%; /* 使符号垂直居中 */
+  left: 0.2em; /* 确保符号在左侧 */
+  top: 42%; /* 使符号垂直居中 */
   transform: translateY(-50%); /* 使用 transform 来垂直居中符号 */
 }
 
