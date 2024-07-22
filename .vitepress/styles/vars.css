@@ -145,6 +145,7 @@
 ul > li::marker {
   font-size: 2em;  /* 调整符号的大小 */
   color: #42b983;   /* 改变符号的颜色 */
+  top:40% !important;
 }
 
 
