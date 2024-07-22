@@ -165,7 +165,7 @@ ul > li::before {
 
 
 .vp-outline ul {
-  list-style-type: none;
+  list-style-type: none !important;
   padding-left: 0;
 }
 
