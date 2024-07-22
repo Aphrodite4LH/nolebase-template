@@ -141,10 +141,18 @@
   border-left: 4px solid #e95f59;
 }
 
+/* 确保隐藏默认符号 */
 ul {
-  list-style-type: none !important; /* 隐藏默认符号 */
-  padding-left: 0; /* 移除默认的内边距 */
+  list-style-type: none !important; /* 强制隐藏默认符号 */
+  padding-left: 0 !important; /* 强制移除默认的内边距 */
+  margin: 0 !important; /* 移除外边距 */
 }
+
+ul > li {
+  position: relative;
+  padding-left: 2em; /* 为列表项添加左侧内边距以为符号留出空间 */
+}
+
 ul > li::before {
   content: "•"; /* 使用自定义的符号 */
   font-size: 2em; /* 调整符号的大小 */
@@ -154,6 +162,7 @@ ul > li::before {
   top: 50%; /* 使符号垂直居中 */
   transform: translateY(-50%); /* 使用 transform 来垂直居中符号 */
 }
+
 
 
 
