@@ -143,18 +143,11 @@
 
 /* 改变无序列表项符号的大小和颜色 */
 ul > li::marker {
-  font-size: 2em;  /* 调整符号的大小 */
+  font-size: 1.1em;  /* 调整符号的大小 */
   color: #42b983;   /* 改变符号的颜色 */
-  top:40% !important;
 }
 
 
-ul > li::before {
-  position: absolute;
-  left: 0.3em !important; /* 确保符号在左侧 */
-  top: 39% !important; /* 使符号垂直居中 */
-  transform: translateY(-50%); /* 使用 transform 来垂直居中符号 */
-}
 
 
 
