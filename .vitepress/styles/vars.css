@@ -127,3 +127,12 @@
   border-color: var(--vp-c-red-2);
 }
 
+/* .vitepress\theme\style\var.css */
+/* 引用块 */
+.vp-doc blockquote {
+  border-radius: 5px;
+  padding: 10px 16px;
+  background-color: var(--vp-badge-danger-bg);
+  position: relative;
+  border-left: 4px solid #e95f59;
+}
