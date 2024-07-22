@@ -25,6 +25,10 @@
  *    to create a accent, such as when having inline code block inside
  *    custom containers.
  * -------------------------------------------------------------------------- */
+/* .vitepress\theme\style\var.css */
+h1 {
+  color: red;
+}
 
 :root {
   --vp-c-sky-1: #3c96ca;
