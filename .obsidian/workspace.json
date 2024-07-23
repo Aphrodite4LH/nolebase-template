@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/7.Day7/3、15.三数之和.md",
+                "file": "笔记/算法笔记/代码随想录/7.Day7/2、383.赎金信.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/7.Day7/3、15.三数之和.md"
+                "file": "笔记/算法笔记/代码随想录/7.Day7/2、383.赎金信.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/7.Day7/3、15.三数之和.md",
+                "file": "笔记/算法笔记/代码随想录/7.Day7/2、383.赎金信.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/7.Day7/3、15.三数之和.md",
+                "file": "笔记/算法笔记/代码随想录/7.Day7/2、383.赎金信.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,11 +168,11 @@
   },
   "active": "d6bede3706a667dd",
   "lastOpenFiles": [
-    "笔记/index.md",
+    "笔记/算法笔记/代码随想录/7.Day7/4、18.四数之和.md",
     "笔记/算法笔记/代码随想录/7.Day7/3、15.三数之和.md",
+    "笔记/index.md",
     "Excalidraw/Drawing 2024-07-23 16.36.59.excalidraw.svg",
     "Excalidraw/Drawing 2024-07-23 16.36.59.excalidraw.md",
-    "笔记/算法笔记/代码随想录/7.Day7/4、18.四数之和.md",
     "笔记/算法笔记/代码随想录/7.Day7/2、383.赎金信.md",
     "笔记/算法笔记/代码随想录/7.Day7/1、454.四数相加Ⅱ.md",
     "笔记/算法笔记/代码随想录/2.Day2/1、977.有序数组的平方.md",
