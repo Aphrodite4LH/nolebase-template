@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/算法笔记/代码随想录/7.Day7/3、15.三数之和.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/index.md"
+                "file": "笔记/算法笔记/代码随想录/7.Day7/3、15.三数之和.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/算法笔记/代码随想录/7.Day7/3、15.三数之和.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/index.md",
+                "file": "笔记/算法笔记/代码随想录/7.Day7/3、15.三数之和.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,8 +166,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cc8683e5ed034204",
+  "active": "d6bede3706a667dd",
   "lastOpenFiles": [
+    "笔记/index.md",
     "笔记/算法笔记/代码随想录/7.Day7/3、15.三数之和.md",
     "Excalidraw/Drawing 2024-07-23 16.36.59.excalidraw.svg",
     "Excalidraw/Drawing 2024-07-23 16.36.59.excalidraw.md",
@@ -184,7 +185,6 @@
     "笔记/八股/OS/八股训练营/11、有哪些页面置换算法.md",
     "笔记/算法笔记/代码随想录/6.Day6/3、349. 两个数组的交集.md",
     "模板/算法笔记模板.md",
-    "笔记/index.md",
     "笔记/算法笔记/代码随想录/1.Day1/2、27.移除元素.md",
     "笔记/算法笔记/代码随想录/1.Day1/1、704.二分查找.md",
     "笔记/算法笔记/代码随想录/6.Day6/2、242.有效的字母异位词.md",
