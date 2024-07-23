@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/6.Day6/3、349. 两个数组的交集.md",
+                "file": "笔记/index.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "523ff913d628c7e9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-23 16.36.59.excalidraw.svg"
               }
             }
           }
@@ -49,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "信号量",
+                "query": "svg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/6.Day6/3、349. 两个数组的交集.md"
+                "file": "笔记/index.md"
               }
             }
           }
@@ -87,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.504695892334
+    "width": 309.5086555480957
   },
   "right": {
     "id": "5116d965595fbda2",
@@ -103,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/6.Day6/3、349. 两个数组的交集.md",
+                "file": "笔记/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/6.Day6/3、349. 两个数组的交集.md",
+                "file": "笔记/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,10 +166,24 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d6bede3706a667dd",
+  "active": "cc8683e5ed034204",
   "lastOpenFiles": [
-    "模板/算法笔记模板.md",
+    "笔记/算法笔记/代码随想录/7.Day7/3、15.三数之和.md",
+    "Excalidraw/Drawing 2024-07-23 16.36.59.excalidraw.svg",
+    "Excalidraw/Drawing 2024-07-23 16.36.59.excalidraw.md",
+    "笔记/算法笔记/代码随想录/7.Day7/4、18.四数之和.md",
+    "笔记/算法笔记/代码随想录/7.Day7/2、383.赎金信.md",
+    "笔记/算法笔记/代码随想录/7.Day7/1、454.四数相加Ⅱ.md",
+    "笔记/算法笔记/代码随想录/2.Day2/1、977.有序数组的平方.md",
+    "笔记/八股/OS/八股训练营/14、说一下 select、poll、epoll.md",
+    "笔记/算法笔记/代码随想录/7.Day7",
+    "笔记/八股/OS/八股训练营/13、Linux中如何查看一个进程，如何杀死一个进程，如何查看某个端口有没有被占用.md",
+    "笔记/八股/OS/八股训练营/8、介绍一下几种典型的锁.md",
+    "笔记/八股/OS/八股训练营/12、熟悉哪些Linux命令.md",
+    "笔记/八股/OS/八股训练营/10、你知道的线程同步方式有哪些.md",
+    "笔记/八股/OS/八股训练营/11、有哪些页面置换算法.md",
     "笔记/算法笔记/代码随想录/6.Day6/3、349. 两个数组的交集.md",
+    "模板/算法笔记模板.md",
     "笔记/index.md",
     "笔记/算法笔记/代码随想录/1.Day1/2、27.移除元素.md",
     "笔记/算法笔记/代码随想录/1.Day1/1、704.二分查找.md",
@@ -169,24 +193,11 @@
     "笔记/算法笔记/代码随想录/6.Day6/1、哈希表理论基础.md",
     "笔记/算法笔记/代码随想录/6.Day6",
     "笔记/算法笔记/代码随想录/6.Day5.md",
-    "笔记/八股/OS/八股训练营/10、你知道的线程同步方式有哪些.md",
     "笔记/八股/OS/八股训练营/6、解释一下进程同步和互斥，以及如何实现进程同步和互斥.md",
     "笔记/八股/OS/八股训练营/7、什么是死锁，如何避免死锁？.md",
-    "笔记/八股/OS/八股训练营/8、介绍一下几种典型的锁.md",
-    "笔记/八股/OS/八股训练营/11、有哪些页面置换算法.md",
     "笔记/八股/OS/八股训练营/9、讲一讲你理解的虚拟内存.md",
-    "笔记/八股/OS/八股训练营/5、进程间有哪些通信方式.md",
-    "笔记/八股/OS/八股训练营/4、进程调度算法你了解多少.md",
-    "笔记/补充/锁与信号量.md",
-    "笔记/补充/二分法的时间复杂度.md",
-    "笔记/补充/半双工与全双工.md",
-    "笔记/算法笔记/代码随想录/5.Day5休息日/4、367.有效的完全平方数.md",
-    "笔记/算法笔记/代码随想录/5.Day5休息日/1、35.搜索插入位置.md",
-    "笔记/算法笔记/代码随想录/5.Day5休息日/3、69.x的平方根.md",
-    "笔记/算法笔记/代码随想录/5.Day5休息日/2、34.在排序数组中查找元素的第一个和最后一个位置.md",
     "笔记/算法笔记/代码随想录/5.Day5休息日",
     "images/1、24. 两两交换链表中的节点 2024-07-20 18.47.39.excalidraw.svg",
-    "笔记/八股/OS/八股训练营/1、进程和线程之间有什么区别.md",
     "images/Pasted image 20240720194439.png",
     "images/Pasted image 20240720193345.png",
     "images/Pasted image 20240720193318.png",
@@ -195,7 +206,6 @@
     "images/Pasted image 20240720192836.png",
     "images/Pasted image 20240720192746.png",
     "images/Pasted image 20240720192729.png",
-    "images/Pasted image 20240720192725.png",
     "Excalidraw",
     "笔记/算法笔记/代码随想录/4.Day4",
     "笔记/补充",
@@ -203,7 +213,6 @@
     "笔记/八股/OS/八股训练营",
     "模板",
     "笔记/算法笔记/代码随想录/2.Day2",
-    "笔记/八股/计网/其它",
     "C++八股/draw/未命名.canvas"
   ]
 }
