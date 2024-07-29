@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/11.Day11/3、347.前 K 个高频元素.md",
+                "file": "笔记/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/11.Day11/3、347.前 K 个高频元素.md"
+                "file": "笔记/index.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/11.Day11/3、347.前 K 个高频元素.md",
+                "file": "笔记/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "笔记/算法笔记/代码随想录/11.Day11/3、347.前 K 个高频元素.md",
+                "file": "笔记/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,6 +158,7 @@
   },
   "active": "14ec9c8655d7710f",
   "lastOpenFiles": [
+    "笔记/算法笔记/代码随想录/11.Day11/3、347.前 K 个高频元素.md",
     "笔记/算法笔记/代码随想录/11.Day11/2、239. 滑动窗口最大值.md",
     "笔记/算法笔记/代码随想录/11.Day11/1、150. 逆波兰表达式求值.md",
     "笔记/算法笔记/代码随想录/10.Day10/1、栈与队列基础.md",
@@ -165,7 +166,6 @@
     "笔记/算法笔记/代码随想录/10.Day10/3、225. 用队列实现栈.md",
     "笔记/算法笔记/代码随想录/10.Day10/4、20. 有效的括号.md",
     "笔记/算法笔记/代码随想录/10.Day10/5、1047. 删除字符串中的所有相邻重复项.md",
-    "笔记/算法笔记/代码随想录/11.Day11/3、347.前 K 个高频元素.md",
     "笔记/八股/数据库/7、什么是慢查询？原因是什么？可以怎么优化？.md",
     "笔记/算法笔记/代码随想录/11.Day11",
     "笔记/算法笔记/代码随想录/10.Day10",
